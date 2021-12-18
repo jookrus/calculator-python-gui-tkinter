@@ -1,2 +1,2 @@
-# calculator-python-gui-tkinter
+# calculator-python-gui-tkinter อิอิ
 อย่าลอกหมดนะครับ
