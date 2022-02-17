@@ -1,2 +1,2 @@
-# calculator-python-gui-tkinter อิอิ
+# calculator-python-gui-tkinter
 
